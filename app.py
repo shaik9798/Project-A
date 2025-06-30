@@ -25,7 +25,7 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to My Web Page</h1>
+        <h1>Welcome to My gut /h1>
     </header>
     <main>
         <p>This is a simple HTML page with some CSS styling.</p>
